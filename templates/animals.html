@@ -1,0 +1,8 @@
+
+    <h1>My animals</h1>
+    {%extends "layout.html"%}
+    {%block body%}
+    {%for i in animals%}
+    <p>{{i}}</p>
+    {%endfor%}
+    {%endblock%}

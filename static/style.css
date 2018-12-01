@@ -1,0 +1,23 @@
+h1 {
+  background-color:purple;
+    color: #ddd;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+
+}
+ul,li{
+  background-color: #0000ff;
+  color: #ddd;
+  padding-left: 5px;
+  padding-right: 5px;
+
+
+}
+button{
+  background-color: #0000ff;
+color: #ddd;
+}
+body{
+background-color: orchid;
+}
